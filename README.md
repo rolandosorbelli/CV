@@ -29,6 +29,12 @@ I am always looking for knowledge, I love learning new things everyday, especial
 - Ruby, Rails, JavaScript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
+**PROJECTS**
+
+| Name | Languages | Info |
+| :----: | :---------: | :----: |
+| [Student Directory](https://github.com/rolandosorbelli/student-directory) | Ruby | Interactive program that allows you to insert names of students and save them in a document. |
+
 ### Web Design/Development Long Course, City Lit (October 2015 - June 2016)
 
 - Wirefraing, mock-up, design and development of websites
