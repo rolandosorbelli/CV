@@ -6,15 +6,15 @@ I am always looking for knowledge, I love learning new things everyday, especial
 
 ## Personal skills ~
 
-### attention to details
+##attention to details##
 
 - I am fascinating by every little thing containing some kind of graphics or design, from a piece of furniture to a website. I love to pay attention to every small detail, even if it's just a dot, a hash or my beloved tilde ~ . During my internship at The Web Kitchen I was helping the team to deal with our clients' websites and I was doing my best to make everything look perfect in terms of details.
 
-### disposition to learn
+##disposition to learn##
 
 - As I said already I am everyday ready to learn new things. I have always loved studying and even though sometimes I reach the point that my brain doesn't want anything else, I still don't give up. I love reading books and blogs, they always bring new knowledge!
 
-### stress management
+##stress management##
 
 - That's one of my best quality I guess: I succeed in managing the strees almost everytime, or at least I try to! I have worked in busy places, especially in London and this gave me the chance to learn how to deal with stress, especially in one of those restaurants, Dishoom, with 2 hours queue outside and hungry people raising their hands because they are ready to order.
 
