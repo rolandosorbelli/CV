@@ -47,7 +47,7 @@ I am always looking for knowledge, I love learning new things everyday, especial
 ## Exerience
 
 ### Freelance Web Designer/Developer
-Portfolio: (http://www.rolandosorbelli.com)
+Portfolio: (rolandosorbelli.com)
 
 As a freelance Web Design and Developer I try to give the best service to my clients, designing a handy and useful website and developing it using HTML, CSS, jQuery and often using Wordpress so it's easier for them to manage it.
 
