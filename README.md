@@ -20,7 +20,7 @@ I am always looking for knowledge, I love learning new things everyday, especial
 
 ## Education ~
 
-### Makers Academy (July - October 2017)
+### ~ Makers Academy (July - October 2017)
 
 - Curiosity and passion for code
 - Independent learner and problem-solver
@@ -35,7 +35,7 @@ I am always looking for knowledge, I love learning new things everyday, especial
 | :----: | :---------: | :----: |
 | [Student Directory](https://github.com/rolandosorbelli/student-directory) | Ruby | Interactive program that allows you to insert names of students and save them in a document. |
 
-### Web Design/Development Long Course, City Lit (October 2015 - June 2016)
+### ~ Web Design/Development Long Course, City Lit (October 2015 - June 2016)
 
 - Wirefraing, mock-up, design and development of websites
 - File management
@@ -44,7 +44,7 @@ I am always looking for knowledge, I love learning new things everyday, especial
 - HTML/HTML5, CSS, jQuery
 - Adobe CC Softwares
 
-### Photoshop / Graphic Design Course, City Lit (March - June 2015)
+### ~ Photoshop / Graphic Design Course, City Lit (March - June 2015)
 
 - Creation of graphic elements
 - Typography
@@ -52,12 +52,12 @@ I am always looking for knowledge, I love learning new things everyday, especial
 
 ## Exerience
 
-### Freelance Web Designer/Developer
+### ~ Freelance Web Designer/Developer
 Portfolio: (www.rolandosorbelli.com)
 
 As a freelance Web Design and Developer I try to give the best service to my clients, designing a handy and useful website and developing it using HTML, CSS, jQuery and often using Wordpress so it's easier for them to manage it.
 
-### Web Development Intern, TWK Media Ltd (October 2016 - January 2017)
+### ~ Web Development Intern, TWK Media Ltd (October 2016 - January 2017)
 
 I was an Intern for 3 months and worked in the Web Development team. I achieved new skills in using Wordpress and its plugins and using PHP to build websites.
 
