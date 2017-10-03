@@ -1,8 +1,10 @@
 # Rolando Sorbelli
 
-I am a web developer (also a bit of designer for fun!) who has been playing around with coding and markup languages for a couple of years now. In these two years I achieved experience in languages like HTML, CSS, JQUERY and I am currently learning RUBY.
+[Personal Skills](#personal-skills) | [Education](#education) | [Projects](#projects) | [Experience](#experience) | [WebPortfolio](http://www.rolandosorbelli.com)
 
-I am always looking for knowledge, I love learning new things everyday, especially when we are talking about coding and developing websites. I want to use my current experience (and the one I will achieve day by day) to rock the Boot Camp at Makers Academy!
+I am a web developer (also a bit of designer for fun!) who has been playing around with coding and markup languages for a couple of years now. In these two years I achieved experience in languages like HTML, CSS, JQUERY and I am currently learning RUBY and JAVASCRIPT.
+
+At the moment I am looking for a job as Front-End Developer and I would like to improve my skill with Javascript.
 
 ## Personal skills ~
 
@@ -10,7 +12,7 @@ I am always looking for knowledge, I love learning new things everyday, especial
 
 - I am fascinating by every little thing containing some kind of graphics or design, from a piece of furniture to a website. I love to pay attention to every small detail, even if it's just a dot, a hash or my beloved tilde ~ . During my internship at The Web Kitchen I was helping the team to deal with our clients' websites and I was doing my best to make everything look perfect in terms of details.
 
-**disposition to learn**
+**willing to learn**
 
 - As I said already I am everyday ready to learn new things. I have always loved studying and even though sometimes I reach the point that my brain doesn't want anything else, I still don't give up. I love reading books and blogs, they always bring new knowledge!
 
@@ -24,16 +26,16 @@ I am always looking for knowledge, I love learning new things everyday, especial
 
 - Curiosity and passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js, Angular.js
+- Ruby, Rails, JavaScript, Node.js, Swift
 - Rspec, Jasmine, Mocha
 
-**PROJECTS**
+##### PROJECTS
 
 | Name | Languages | Info |
-| :----: | :---------: | :----: |
-| [Student Directory](https://github.com/rolandosorbelli/student-directory) | Ruby | Interactive program that allows you to insert names of students and save them in a document. |
+| :---: | :---: | :---: |
+| [Pokeball Run!](https://github.com/rolandosorbelli/pokeball) | Swift | Iphone game app based on Swift that uses the gyroscope techology to move items around on the screen. |
 
 ### ~ Web Design/Development Long Course, City Lit (October 2015 - June 2016)
 
@@ -50,7 +52,7 @@ I am always looking for knowledge, I love learning new things everyday, especial
 - Typography
 - Image manipulation and editing
 
-## Exerience
+## Experience
 
 ### ~ Freelance Web Designer/Developer
 Portfolio: (www.rolandosorbelli.com)
