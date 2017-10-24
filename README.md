@@ -35,9 +35,10 @@ At the moment I am looking for a job as Front-End Developer and I would like to 
 
 | Name | Languages | Info |
 | :---: | :---: | :---: |
-| [Pokeball Run!](https://github.com/rolandosorbelli/pokeball) | Swift | Iphone game app based on Swift that uses the gyroscope techology to move items around on the screen. |
-| [Instapanda](https://github.com/rolandosorbelli/instagram-challenge) | Ruby on Rails | Web App, clone of Instagram. It allow users to sign in and post their pictures. |
+| [Pokeball Run!](https://github.com/rolandosorbelli/pokeball) | Swift | Iphone game app based on Swift that uses the gyroscope techology to move items around on the screen |
+| [Instapanda](https://github.com/rolandosorbelli/instagram-challenge) | Ruby on Rails | Web App, clone of Instagram. It allow users to sign in and post their pictures |
 | [Moomood](https://github.com/rolandosorbelli/moomood) | Swift | Iphone app that allows users to track their mood and chat with a personal assistant called MoomooBot |
+| [Bank - Tech Test](https://github.com/rolandosorbelli/bank) | Ruby | Simulation of a Tech Test using Ruby |
 
 ### ~ Web Design/Development Long Course, City Lit (October 2015 - June 2016)
 
