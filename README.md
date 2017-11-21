@@ -2,15 +2,15 @@
 
 [Personal Skills](#personal-skills) | [Education](#education) | [Projects](#projects) | [Experience](#experience) | [WebPortfolio](http://www.rolandosorbelli.com)
 
-I am a web developer who has been playing around with coding and markup languages for a couple of years now. In these two years I achieved experience in languages like HTML, CSS, jQuery and I am currently learning Ruby and JavaScript.
+I am a web developer who has been playing around with coding and markup languages for a couple of years now. I have gained experience in languages like HTML, CSS, jQuery and I am currently learning Ruby and JavaScript.
 
-At the moment I am looking for a job as Front-End Developer and I would like to improve my skills with JavaScript and React.
+I am currently looking for a job as Front-End Developer and I would like to develop my skills using JavaScript and React.
 
 ## Personal skills ~
 
-**attention to details**
+**attention to detail**
 
-- I am fascinating by every little thing containing some kind of graphics or design, from a piece of furniture to a website. I love to pay attention to every small detail, even if it's just a dot, a hash or my beloved tilde ~ . During my internship at The Web Kitchen I was helping the team to deal with our clients' websites and I was doing my best to make everything look perfect in terms of details.
+- I am fascinated by every little thing that has some kind of graphics or design element to it, whether it is a piece of furniture or a website. I love to pay attention to every small detail, even if it's just a dot, a hash or my beloved tilde ~. During my internship at The Web Kitchen I was assisting the team in creating or mantzining websites for our clients and I was continuosly reviewing my work to make sure I never missed something.
 
 **willing to learn**
 
