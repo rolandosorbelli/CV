@@ -10,7 +10,7 @@ I am currently looking for a job as Front-End Developer and I would like to deve
 
 **attention to detail**
 
-- I am fascinated by every little thing that has some kind of graphics or design element to it, whether it is a piece of furniture or a website. I love to pay attention to every small detail, even if it's just a dot, a hash or my beloved tilde ~. During my internship at The Web Kitchen I was assisting the team in creating or mantaining websites for our clients and I was continuosly reviewing my work to make sure I never missed something.
+- I am fascinated by every little thing that has some kind of graphics or design element to it, whether it is a piece of furniture or a website. I love to pay attention to every small detail, even if it's just a dot, a hash or my beloved tilde ~. During my internship at The Web Kitchen I was assisting the team in creating or maintaining websites for our clients and I was continuosly reviewing my work to make sure I never missed something.
 
 **willing to learn**
 
