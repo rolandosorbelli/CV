@@ -2,9 +2,9 @@
 
 [Personal Skills](#personal-skills) | [Education](#education) | [Projects](#projects) | [Experience](#experience) | [WebPortfolio](http://www.rolandosorbelli.com)
 
-I am a web developer (also a bit of designer for fun!) who has been playing around with coding and markup languages for a couple of years now. In these two years I achieved experience in languages like HTML, CSS, JQUERY and I am currently learning RUBY and JAVASCRIPT.
+I am a web developer who has been playing around with coding and markup languages for a couple of years now. In these two years I achieved experience in languages like HTML, CSS, jQuery and I am currently learning Ruby and JavaScript.
 
-At the moment I am looking for a job as Front-End Developer and I would like to improve my skill with Javascript.
+At the moment I am looking for a job as Front-End Developer and I would like to improve my skills with JavaScript and React.
 
 ## Personal skills ~
 
@@ -14,11 +14,11 @@ At the moment I am looking for a job as Front-End Developer and I would like to 
 
 **willing to learn**
 
-- As I said already I am everyday ready to learn new things. I have always loved studying and even though sometimes I reach the point that my brain doesn't want anything else, I still don't give up. I love reading books and blogs, they always bring new knowledge!
+- I am a person who loves learning new things every day. I have always loved studying and even though sometimes I reach the point that my brain doesn't want anything else, I still don't give up. I love reading books and blogs, they always bring new knowledge!
 
 **stress management**
 
-- That's one of my best quality I guess: I succeed in managing the strees almost everytime, or at least I try to! I have worked in busy places, especially in London and this gave me the chance to learn how to deal with stress, especially in one of those restaurants, Dishoom, with 2 hours queue outside and hungry people raising their hands because they are ready to order.
+- That's one of my best quality: I succeed in managing the stress almost everytime, or at least I try to! I have worked in busy places, especially in London and this gave me the chance to learn how to deal with stress. An example is Dishoom, a busy restaurant with 2 hours queue outside every day full of very hungry people.
 
 ## Education ~
 
@@ -42,7 +42,7 @@ At the moment I am looking for a job as Front-End Developer and I would like to 
 
 ### ~ Web Design/Development Long Course, City Lit (October 2015 - June 2016)
 
-- Wirefraing, mock-up, design and development of websites
+- Wireframing, mock-up, design and development of websites
 - File management
 - Essentials of SEO
 - Optimisation of images for web usage
@@ -60,7 +60,7 @@ At the moment I am looking for a job as Front-End Developer and I would like to 
 ### ~ Freelance Web Designer/Developer
 Portfolio: (www.rolandosorbelli.com)
 
-As a freelance Web Design and Developer I try to give the best service to my clients, designing a handy and useful website and developing it using HTML, CSS, jQuery and often using Wordpress so it's easier for them to manage it.
+As a freelance Web Design and Developer I try to give the best service to my clients, designing handy and useful websites and developing them using HTML, CSS, jQuery and Wordpress.
 
 ### ~ Web Development Intern, TWK Media Ltd (October 2016 - January 2017)
 
