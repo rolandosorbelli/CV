@@ -14,11 +14,11 @@ I am currently looking for a job as Front-End Developer and I would like to deve
 
 **willing to learn**
 
-- I am a person who loves learning new things every day. I have always loved studying and even though sometimes I reach the point that my brain doesn't want anything else, I still don't give up. I love reading books and blogs, they always bring new knowledge!
+- I am a person who loves learning new things every day. I have always loved studying and reading and when I have some free time I like to keep myself updated on new techologies by reading blogs.
 
 **stress management**
 
-- That's one of my best quality: I succeed in managing the stress almost everytime, or at least I try to! I have worked in busy places, especially in London and this gave me the chance to learn how to deal with stress. An example is Dishoom, a busy restaurant with 2 hours queue outside every day full of very hungry people.
+- I always try to prioritise my work so I can easily manage the stress around a deadline or a task that I am working on. For sure the experience that I gained working in a busy place like Dishoom, a restaurant in Central London where I worked for almost 4 years, helped me to achieve this skill and I find it helpful when it comes to work under preassure.
 
 ## Education ~
 
@@ -60,7 +60,7 @@ I am currently looking for a job as Front-End Developer and I would like to deve
 ### ~ Freelance Web Designer/Developer
 Portfolio: (www.rolandosorbelli.com)
 
-As a freelance Web Design and Developer I try to give the best service to my clients, designing handy and useful websites and developing them using HTML, CSS, jQuery and Wordpress.
+As a freelance Web Design and Developer I try to give the best service to my clients, designing and developing handy and useful websites using HTML, CSS, jQuery and Wordpress.
 
 ### ~ Web Development Intern, TWK Media Ltd (October 2016 - January 2017)
 
